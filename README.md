@@ -7,6 +7,6 @@ a requirements.txt file that has all the dependencies for the backend.
 
 Database: Postgresql
 
-The frontend folder has the react app. 
-The backend folder is the django project. 
-the choreManager folder is the django app.
+# The frontend folder has the react app. 
+# The backend folder is the django project. 
+# The choreManager folder is the django app.
